@@ -1,0 +1,26 @@
+{
+  "host":"192.168.1.1",
+  "urls":
+  [
+    {
+      "url": "http://www.baidu.com",
+      "type":"POST",
+      "result":"null"
+    },
+    {
+      "url": "http://www.baidu.com",
+      "type":"GET",
+      "result":"file"
+    },
+    {
+      "url": "http://www.baidu.com",
+      "type":"GET",
+      "result":"string"
+    },
+    {
+      "url": "http://www.baidu.com",
+      "type":"GET",
+      "result":"image"
+    }
+  ]
+}

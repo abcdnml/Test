@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainTest/MainTest.iml" filepath="$PROJECT_DIR$/MainTest/MainTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customwidgt/customwidgt.iml" filepath="$PROJECT_DIR$/customwidgt/customwidgt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netlib/netlib.iml" filepath="$PROJECT_DIR$/netlib/netlib.iml" />
+    </modules>
+  </component>
+</project>
